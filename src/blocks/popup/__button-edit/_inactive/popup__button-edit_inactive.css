@@ -1,0 +1,11 @@
+.popup__button-edit_inactive {
+  background-color: #ffffff;
+  color: #000000;
+  border: 1px solid #000000;
+  opacity: 0.2;
+  cursor: default;
+}
+
+.popup__button-edit_inactive:hover {
+  opacity: 0.2;
+}

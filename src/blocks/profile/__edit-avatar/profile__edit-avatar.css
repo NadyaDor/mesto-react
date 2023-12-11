@@ -1,0 +1,12 @@
+.profile__edit-avatar {
+  width: 120px;
+  height: 120px;
+  background-color: black;
+  border: 0;
+  padding: 0;
+  border-radius: 50%;
+  background-image: url(../../../images/Vector_pen.svg);
+  background-size: 26px;
+  background-repeat: no-repeat;
+  background-position: center;
+}

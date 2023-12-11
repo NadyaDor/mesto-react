@@ -1,0 +1,5 @@
+.card__hurts {
+  display: flex;
+  flex-direction: column;
+  margin-right: 6px;
+}
